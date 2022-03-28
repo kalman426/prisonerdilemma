@@ -1,0 +1,10 @@
+C:\Users\Felhasználó\source\repos\fogoly\fogoly\bin\Debug\fogoly.exe.config
+C:\Users\Felhasználó\source\repos\fogoly\fogoly\bin\Debug\fogoly.exe
+C:\Users\Felhasználó\source\repos\fogoly\fogoly\bin\Debug\fogoly.pdb
+C:\Users\Felhasználó\source\repos\fogoly\fogoly\obj\Debug\fogoly.csprojAssemblyReference.cache
+C:\Users\Felhasználó\source\repos\fogoly\fogoly\obj\Debug\fogoly.Form1.resources
+C:\Users\Felhasználó\source\repos\fogoly\fogoly\obj\Debug\fogoly.Properties.Resources.resources
+C:\Users\Felhasználó\source\repos\fogoly\fogoly\obj\Debug\fogoly.csproj.GenerateResource.cache
+C:\Users\Felhasználó\source\repos\fogoly\fogoly\obj\Debug\fogoly.csproj.CoreCompileInputs.cache
+C:\Users\Felhasználó\source\repos\fogoly\fogoly\obj\Debug\fogoly.exe
+C:\Users\Felhasználó\source\repos\fogoly\fogoly\obj\Debug\fogoly.pdb
